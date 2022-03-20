@@ -1,3 +1,7 @@
+# Kammui test marketplace
+
+1. setup keys see: https://www.sharetribe.com/docs/introduction/getting-started-with-ftw-daily/#sharetribe-flex-client-id-and-client-secret
+
 # Sharetribe Flex Template for Web
 
 [![CircleCI](https://circleci.com/gh/sharetribe/ftw-daily.svg?style=svg)](https://circleci.com/gh/sharetribe/ftw-daily)
